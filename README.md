@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I'm a software engineer student from the University of Puerto Rico Mayaguez.</p>
+<p align="left">Hey, I'm a software engineering student from the University of Puerto Rico at Mayagüez.</p>
 
 ###
 
